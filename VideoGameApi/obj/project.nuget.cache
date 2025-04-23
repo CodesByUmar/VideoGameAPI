@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "byx0NvXICLU=",
+  "success": true,
+  "projectFilePath": "D:\\VIDEO_GAME\\VideoGameApi\\VideoGameApi\\VideoGameApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
